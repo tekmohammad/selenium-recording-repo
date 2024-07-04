@@ -34,5 +34,7 @@ public class SetupSeleniumProject {
 
         element.clear();
 
+        driver.quit();
+
     }
 }
